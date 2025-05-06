@@ -140,3 +140,5 @@ START_PROGRAM() {
 }
 
 START_PROGRAM $1
+
+# This script queries element information from the periodic_table database
